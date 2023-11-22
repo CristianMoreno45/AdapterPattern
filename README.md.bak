@@ -1,0 +1,27 @@
+﻿# app-common
+
+Este proyecto se generó con [Angular CLI](https://github.com/angular/angular-cli) versión 8.3.29.
+
+# jjwl-common
+
+Esta biblioteca se generó con [Angular CLI](https://github.com/angular/angular-cli) versión 8.2.14.
+
+## Servidor de desarrollo
+
+Ejecute `npm run start` para un servidor de desarrollo. Navegue hasta `http://localhost:4200/`. La aplicación se recargará automáticamente si cambia alguno de los archivos fuente..
+
+## Andamio de código (Code scaffolding)
+
+Ejecute `nng generate component component-name` para generar un nuevo componente. También puede usar `ng generar directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Ejecute `npm run build` para construir la librería. Los artefactos de compilación se almacenarán en el directorio `dist/`. Utilice el indicador `--prod` para una compilación de producción.
+
+## Ejecución de pruebas unitarias
+
+Ejecute `npm run test` para ejecutar las pruebas unitarias a través de [Karma] (https://karma-runner.github.io).
+
+## Más ayuda
+
+Para obtener más ayuda sobre Angular CLI, use `ng help` o consulte el [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
